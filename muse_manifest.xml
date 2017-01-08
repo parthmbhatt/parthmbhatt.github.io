@@ -1,0 +1,173 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1483915352580">
+  <folder name="css">
+    <file name="site_global.css" crc="378988982"/>
+    <file name="master_project-page.css" crc="3967710997" ref="minddraw:magic-box:spotlight:flex:untitled-15:untitled-14:hlb:body-hero:untitled-16"/>
+    <file name="master_work-master.css" crc="307802439" ref="work:more-projects"/>
+    <file name="master_home-master.css" crc="458254426" ref="contact:index:resume:about-me"/>
+    <file name="master_skills-master.css" crc="221226292" ref="skills"/>
+    <file name="minddraw.css" crc="215331160" ref="minddraw"/>
+    <file name="contact.css" crc="8813777" ref="contact"/>
+    <file name="index.css" crc="303779485" ref="index"/>
+    <file name="work.css" crc="441655576" ref="work"/>
+    <file name="magic-box.css" crc="215331160" ref="magic-box"/>
+    <file name="skills.css" crc="4254003424" ref="skills"/>
+    <file name="spotlight.css" crc="215331160" ref="spotlight"/>
+    <file name="flex.css" crc="215331160" ref="flex"/>
+    <file name="more-projects.css" crc="341711683" ref="more-projects"/>
+    <file name="untitled-15.css" crc="215331160" ref="untitled-15"/>
+    <file name="resume.css" crc="8813777" ref="resume"/>
+    <file name="untitled-14.css" crc="215331160" ref="untitled-14"/>
+    <file name="hlb.css" crc="215331160" ref="hlb"/>
+    <file name="body-hero.css" crc="215331160" ref="body-hero"/>
+    <file name="untitled-16.css" crc="215331160" ref="untitled-16"/>
+    <file name="about-me.css" crc="8813777" ref="about-me"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="museutils.js" crc="3790713428" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="whatinput.js" crc="84559013" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="pie.js" crc="3827607177" ref="index:skills"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="work"/>
+    <file name="webpro.js" crc="329496574" ref="skills"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="skills"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u2323.png" crc="3944594454" ref="index:resume:about-me:contact"/>
+    <file name="u2323-r.png" crc="3830789814" ref="index:resume:about-me:contact"/>
+    <file name="u2323-m.png" crc="408622643" ref="index:resume:about-me:contact"/>
+    <file name="u2320.png" crc="4032549004" ref="index:resume:about-me:contact"/>
+    <file name="u2320-r.png" crc="300111528" ref="index:resume:about-me:contact"/>
+    <file name="u2320-m.png" crc="4091753810" ref="index:resume:about-me:contact"/>
+    <file name="u2304.png" crc="4094322661" ref="index:resume:about-me:contact"/>
+    <file name="u2304-r.png" crc="276633236" ref="index:resume:about-me:contact"/>
+    <file name="u2304-m.png" crc="4155006887" ref="index:resume:about-me:contact"/>
+    <file name="u2309.png" crc="4082902382" ref="index:resume:about-me:contact"/>
+    <file name="u2309-r.png" crc="404551174" ref="index:resume:about-me:contact"/>
+    <file name="u2309-m.png" crc="4145541814" ref="index:resume:about-me:contact"/>
+    <file name="u2330.png" crc="30388560" ref="index:resume:about-me:contact"/>
+    <file name="u2330-r.png" crc="3864403708" ref="index:resume:about-me:contact"/>
+    <file name="u2330-m.png" crc="111688758" ref="index:resume:about-me:contact"/>
+    <file name="u3107.png" crc="4262998179" ref="index:resume:about-me:contact"/>
+    <file name="u3107-r.png" crc="418188485" ref="index:resume:about-me:contact"/>
+    <file name="u3107-m.png" crc="3910598540" ref="index:resume:about-me:contact"/>
+    <file name="headshot.jpg" crc="481605286" seo="true" ref="index"/>
+    <file name="u310-8.png" crc="447944634" ref="index"/>
+    <file name="u2431.png" crc="3944594454" ref="work:more-projects"/>
+    <file name="u2431-r.png" crc="3830789814" ref="work:more-projects"/>
+    <file name="u2431-m.png" crc="408622643" ref="work:more-projects"/>
+    <file name="u2428.png" crc="4032549004" ref="work:more-projects"/>
+    <file name="u2428-r.png" crc="300111528" ref="work:more-projects"/>
+    <file name="u2428-m.png" crc="4091753810" ref="work:more-projects"/>
+    <file name="u2412.png" crc="41913195" ref="work:more-projects"/>
+    <file name="u2412-r.png" crc="333195026" ref="work:more-projects"/>
+    <file name="u2412-m.png" crc="4090863146" ref="work:more-projects"/>
+    <file name="downarrow.png" crc="119049143" ref="work"/>
+    <file name="rightarrow.png" crc="510291622" ref="work"/>
+    <file name="u2417.png" crc="4082902382" ref="work:more-projects"/>
+    <file name="u2417-r.png" crc="404551174" ref="work:more-projects"/>
+    <file name="u2417-m.png" crc="4145541814" ref="work:more-projects"/>
+    <file name="u2438.png" crc="30388560" ref="work:more-projects"/>
+    <file name="u2438-r.png" crc="3864403708" ref="work:more-projects"/>
+    <file name="u2438-m.png" crc="111688758" ref="work:more-projects"/>
+    <file name="u3150.png" crc="4262998179" ref="work:more-projects"/>
+    <file name="u3150-r.png" crc="418188485" ref="work:more-projects"/>
+    <file name="u3150-m.png" crc="3910598540" ref="work:more-projects"/>
+    <file name="magicbox.gif" crc="3927414990" seo="true" ref="work"/>
+    <file name="magic box overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="magic box overlay-vector smart object.png" crc="222813497" ref="work"/>
+    <file name="pasted-svg-612x408.svg" crc="3953442750" ref="work"/>
+    <file name="pasted svg 612x408_poster_.png" crc="221108903" ref="work"/>
+    <file name="hlb overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="hlb overlay.png" crc="182721913" ref="work"/>
+    <file name="flex.gif" crc="492196487" seo="true" ref="work"/>
+    <file name="flex overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="flex overlay-vector smart object.png" crc="332787258" ref="work"/>
+    <file name="spot light front business card_business card 1.png" crc="4207845352" seo="true" ref="work"/>
+    <file name="spotlight overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="spotlight overlay-vector smart object.png" crc="144580038" ref="work"/>
+    <file name="drawing machine gif.gif" crc="3808487872" seo="true" ref="work"/>
+    <file name="minddraw overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="minddraw overlay-vector smart object.png" crc="3979693573" ref="work"/>
+    <file name="usage.jpg" crc="193284217" seo="true" ref="work"/>
+    <file name="body hero overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="body hero overlay.png" crc="3918795791" ref="work"/>
+    <file name="collage-crop-u2974.jpg" crc="4101534287" ref="work"/>
+    <file name="other stuff overlay-background.png" crc="3974398487" ref="work"/>
+    <file name="other stuff overlay-vector smart object.png" crc="3909166140" ref="work"/>
+    <file name="u2208.png" crc="3944594454" ref="skills"/>
+    <file name="u2208-r.png" crc="3830789814" ref="skills"/>
+    <file name="u2208-m.png" crc="408622643" ref="skills"/>
+    <file name="u2217.png" crc="4032549004" ref="skills"/>
+    <file name="u2217-r.png" crc="300111528" ref="skills"/>
+    <file name="u2217-m.png" crc="4091753810" ref="skills"/>
+    <file name="u2201.png" crc="4094322661" ref="skills"/>
+    <file name="u2201-r.png" crc="276633236" ref="skills"/>
+    <file name="u2201-m.png" crc="4155006887" ref="skills"/>
+    <file name="u2222.png" crc="4082902382" ref="skills"/>
+    <file name="u2222-r.png" crc="404551174" ref="skills"/>
+    <file name="u2222-m.png" crc="4145541814" ref="skills"/>
+    <file name="u2198.png" crc="30388560" ref="skills"/>
+    <file name="u2198-r.png" crc="3864403708" ref="skills"/>
+    <file name="u2198-m.png" crc="111688758" ref="skills"/>
+    <file name="u3132.png" crc="4262998179" ref="skills"/>
+    <file name="u3132-r.png" crc="418188485" ref="skills"/>
+    <file name="u3132-m.png" crc="3910598540" ref="skills"/>
+    <file name="u1227-5.png" crc="295613230" ref="skills"/>
+    <file name="u1525-6.png" crc="4045430325" ref="skills"/>
+    <file name="u1528-6.png" crc="3882913632" ref="skills"/>
+    <file name="u1531-6.png" crc="104952820" ref="skills"/>
+    <file name="u1534-6.png" crc="307205262" ref="skills"/>
+    <file name="u1537-5.png" crc="4169922055" ref="skills"/>
+    <file name="u1540-5.png" crc="118476751" ref="skills"/>
+    <file name="u1543-5.png" crc="4116656214" ref="skills"/>
+    <file name="u1546-6.png" crc="460954027" ref="skills"/>
+    <file name="u1549-7.png" crc="4044777252" ref="skills"/>
+    <file name="u1552-6.png" crc="455082181" ref="skills"/>
+    <file name="u1555-6.png" crc="266966227" ref="skills"/>
+    <file name="u1558-5.png" crc="3875862842" ref="skills"/>
+    <file name="u1561-5.png" crc="3909548365" ref="skills"/>
+    <file name="u1567-5.png" crc="242700528" ref="skills"/>
+    <file name="u1564-6.png" crc="534495866" ref="skills"/>
+    <file name="u1570-4.png" crc="268206129" ref="skills"/>
+    <file name="u3287.png" crc="3944594454" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3287-r.png" crc="3830789814" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3287-m.png" crc="408622643" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3284.png" crc="4032549004" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3284-r.png" crc="300111528" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3284-m.png" crc="4091753810" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3296.png" crc="41913195" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3296-r.png" crc="333195026" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3296-m.png" crc="4090863146" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="magic-box"/>
+    <file name="arrowmenuright.png" crc="41086373" ref="magic-box"/>
+    <file name="u3319.png" crc="4082902382" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3319-r.png" crc="404551174" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3319-m.png" crc="4145541814" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3330.png" crc="30388560" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3330-r.png" crc="3864403708" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3330-m.png" crc="111688758" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3326.png" crc="4262998179" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3326-r.png" crc="418188485" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+    <file name="u3326-m.png" crc="3910598540" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:untitled-14:untitled-15:untitled-16"/>
+  </folder>
+  <file name="index.html" crc="3832904225" seo="true" mt="1483909860837" redirect="true"/>
+  <file name="resume.html" crc="3949594598" seo="true" mt="1483909860837" redirect="true"/>
+  <file name="about-me.html" crc="9306564" seo="true" mt="1483909860837" redirect="true"/>
+  <file name="contact.html" crc="4041364075" seo="true" mt="1483909860837" redirect="true"/>
+  <file name="work.html" crc="22998655" seo="true" mt="1483910779592" redirect="true"/>
+  <file name="skills.html" crc="517978882" seo="true" mt="1483909860937" redirect="true"/>
+  <file name="more-projects.html" crc="276354810" seo="true" mt="1483910779592" redirect="true"/>
+  <file name="magic-box.html" crc="13644453" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="hlb.html" crc="340366968" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="flex.html" crc="245458727" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="spotlight.html" crc="3871740878" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="minddraw.html" crc="4131902234" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="body-hero.html" crc="473205102" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="untitled-14.html" crc="19463622" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="untitled-15.html" crc="4175543098" seo="true" mt="1483915288039" redirect="true"/>
+  <file name="untitled-16.html" crc="298911347" seo="true" mt="1483915288039" redirect="true"/>
+</manifest>
