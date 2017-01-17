@@ -1,7 +1,7 @@
 .version.skills /* version checker */
 {
-	color: #000009;
-	background-color: #921E44;
+	color: #0000E2;
+	background-color: #FF1117;
 }
 
 #muse_css_mq
@@ -461,6 +461,7 @@
 	line-height: 47px;
 	font-size: 39px;
 	text-align: center;
+	font-weight: bold;
 	margin-left: 280px;
 	margin-top: 18px;
 	position: relative;
@@ -2084,7 +2085,7 @@
 #u1737-bw
 {
 	z-index: 289;
-	margin-top: 229px;
+	margin-top: 230px;
 	height: 62px;
 }
 

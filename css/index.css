@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F4;
-	background-color: #06CBC1;
+	color: #000004;
+	background-color: #DDB5C6;
 }
 
 #muse_css_mq
@@ -517,15 +517,10 @@
 	font-size: 39px;
 	text-align: center;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
 	margin-left: 276px;
 	margin-top: 30px;
 	position: relative;
-}
-
-#u14353
-{
-	text-align: center;
-	color: #FFFFFF;
 }
 
 #pu14362
