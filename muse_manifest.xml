@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1484678929039">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1484680275098">
   <folder name="assets">
     <file name="facilitating-emergency-response.pdf" crc="267258554" seo="true" mt="1484161576000"/>
   </folder>
@@ -8,10 +8,10 @@
     <file name="master_work-master.css" crc="144897900" ref="work:more-projects:resume:about-me:contact:index:skills"/>
     <file name="minddraw.css" crc="4105321528" ref="minddraw"/>
     <file name="contact.css" crc="523990061" ref="contact"/>
-    <file name="index.css" crc="4094086081" ref="index"/>
+    <file name="index.css" crc="81638854" ref="index"/>
     <file name="work.css" crc="207524378" ref="work"/>
     <file name="magic-box.css" crc="4265760776" ref="magic-box"/>
-    <file name="skills.css" crc="160570948" ref="skills"/>
+    <file name="skills.css" crc="3808366871" ref="skills"/>
     <file name="spotlight.css" crc="219595568" ref="spotlight"/>
     <file name="flex.css" crc="67713466" ref="flex"/>
     <file name="more-projects.css" crc="301193462" ref="more-projects"/>
@@ -165,12 +165,12 @@
     <file name="pasted image 901x796.jpg" crc="302251022" seo="true" ref="body-hero"/>
     <file name="img_20151222_143339.jpg" crc="103251927" seo="true" ref="body-hero"/>
   </folder>
-  <file name="index.html" crc="4221486102" seo="true" mt="1484678883639" redirect="true"/>
+  <file name="index.html" crc="427805591" seo="true" mt="1484680205178" redirect="true"/>
   <file name="resume.html" crc="4125736073" seo="true" mt="1484678755720" redirect="true"/>
   <file name="about-me.html" crc="13998829" seo="true" mt="1484678755720" redirect="true"/>
   <file name="contact.html" crc="486987035" seo="true" mt="1484678755931" redirect="true"/>
   <file name="work.html" crc="111685196" seo="true" mt="1484678904874" redirect="true"/>
-  <file name="skills.html" crc="163204334" seo="true" mt="1484678755720" redirect="true"/>
+  <file name="skills.html" crc="4146369104" seo="true" mt="1484680179927" redirect="true"/>
   <file name="more-projects.html" crc="49724450" seo="true" mt="1484678755720" redirect="true"/>
   <file name="magic-box.html" crc="3912667302" seo="true" mt="1484678755871" redirect="true"/>
   <file name="hlb.html" crc="19845670" seo="true" mt="1484678755871" redirect="true"/>
