@@ -1,7 +1,7 @@
 .version.more_projects /* version checker */
 {
 	color: #000011;
-	background-color: #F3D8F6;
+	background-color: #8AC3D7;
 }
 
 #muse_css_mq
@@ -485,10 +485,10 @@
 	z-index: 3;
 	min-height: 160px;
 	background-color: transparent;
-	line-height: 72px;
 	color: #FFFFFF;
 	font-size: 60px;
 	text-align: center;
+	line-height: 72px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-top: 161px;

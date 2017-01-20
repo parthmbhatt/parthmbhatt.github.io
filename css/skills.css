@@ -1,7 +1,7 @@
 .version.skills /* version checker */
 {
-	color: #0000E2;
-	background-color: #FF1117;
+	color: #000013;
+	background-color: #F0B6E5;
 }
 
 #muse_css_mq
@@ -483,7 +483,7 @@
 {
 	z-index: 3;
 	width: 844px;
-	height: 449px;
+	height: 340px;
 	background-color: #969696;
 	opacity: 0.57;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=56.99999999999999)";
@@ -496,17 +496,17 @@
 #u1200-7
 {
 	z-index: 4;
-	width: 651px;
-	min-height: 391px;
+	width: 797px;
+	min-height: 296px;
 	background-color: transparent;
-	line-height: 37px;
 	color: #FFFFFF;
 	font-size: 31px;
 	text-align: left;
+	line-height: 37px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 21px;
+	margin-top: 16px;
 	left: 24px;
 }
 
@@ -519,7 +519,7 @@
 	background-color: transparent;
 	border-radius: 10px;
 	margin-left: 58px;
-	margin-top: 45px;
+	margin-top: 48px;
 	position: relative;
 }
 
@@ -539,7 +539,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -614,7 +614,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -689,7 +689,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -764,7 +764,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -839,7 +839,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -914,7 +914,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1003,7 +1003,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1078,7 +1078,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1153,7 +1153,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1228,7 +1228,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #7685FF;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1303,7 +1303,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #7685FF;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1378,7 +1378,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1456,7 +1456,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1538,7 +1538,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1613,7 +1613,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #7685FF;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1688,7 +1688,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #7685FF;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1771,7 +1771,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #7685FF;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1799,20 +1799,6 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	padding-top: 10px;
-	padding-bottom: 10px;
-	min-height: 31px;
-	width: 832px;
-	margin: 0px;
-}
-
-#u1361-7.AccordionPanelTabOpen,#u1387-7.AccordionPanelTabOpen,#u1406-7.AccordionPanelTabOpen
-{
-	background-color: #7685FF;
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-	border-radius: 10px 10px 0px 0px ;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	min-height: 31px;
@@ -1860,7 +1846,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1898,8 +1884,8 @@
 
 #u1396-7.AccordionPanelTabOpen p,#u1396-7.AccordionPanelTabOpen span
 {
-	letter-spacing: 2px;
 	padding-right: 4px;
+	letter-spacing: 2px;
 	font-weight: bold;
 }
 
@@ -1962,7 +1948,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
-	background-color: #FF596F;
+	background-color: #317873;
 	border-radius: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -1997,8 +1983,9 @@
 	margin: 0px;
 }
 
-#u1225-6.AccordionPanelTabOpen,#u1229-6.AccordionPanelTabOpen,#u1221-6.AccordionPanelTabOpen,#u1501-7.AccordionPanelTabOpen,#u1261-7.AccordionPanelTabOpen,#u1271-7.AccordionPanelTabOpen,#u1280-7.AccordionPanelTabOpen,#u1289-7.AccordionPanelTabOpen,#u1342-7.AccordionPanelTabOpen,#u1352-7.AccordionPanelTabOpen,#u26280-8.AccordionPanelTabOpen,#u1369-7.AccordionPanelTabOpen,#u1378-7.AccordionPanelTabOpen,#u29708-8.AccordionPanelTabOpen,#u1396-7.AccordionPanelTabOpen,#u1414-7.AccordionPanelTabOpen
+#u1225-6.AccordionPanelTabOpen,#u1229-6.AccordionPanelTabOpen,#u1221-6.AccordionPanelTabOpen,#u1501-7.AccordionPanelTabOpen,#u1261-7.AccordionPanelTabOpen,#u1271-7.AccordionPanelTabOpen,#u1280-7.AccordionPanelTabOpen,#u1289-7.AccordionPanelTabOpen,#u1342-7.AccordionPanelTabOpen,#u1352-7.AccordionPanelTabOpen,#u1361-7.AccordionPanelTabOpen,#u26280-8.AccordionPanelTabOpen,#u1369-7.AccordionPanelTabOpen,#u1378-7.AccordionPanelTabOpen,#u1387-7.AccordionPanelTabOpen,#u29708-8.AccordionPanelTabOpen,#u1406-7.AccordionPanelTabOpen,#u1396-7.AccordionPanelTabOpen,#u1414-7.AccordionPanelTabOpen
 {
+	background-color: #317873;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
@@ -2085,7 +2072,7 @@
 #u1737-bw
 {
 	z-index: 289;
-	margin-top: 230px;
+	margin-top: 336px;
 	height: 62px;
 }
 

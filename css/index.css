@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000004;
-	background-color: #DDB5C6;
+	color: #000008;
+	background-color: #604AC8;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u1738-3
 {
-	z-index: 46;
+	z-index: 40;
 	min-height: 62px;
 	position: fixed;
 	top: 0px;
@@ -45,12 +45,12 @@
 
 #u1738-3-bw
 {
-	z-index: 46;
+	z-index: 40;
 }
 
 #menuu2407
 {
-	z-index: 50;
+	z-index: 44;
 	width: 446px;
 	position: fixed;
 	top: 20px;
@@ -116,7 +116,7 @@
 
 #u2411
 {
-	z-index: 69;
+	z-index: 63;
 	width: 14px;
 	height: 14px;
 	position: relative;
@@ -503,7 +503,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 24px;
-	left: 350px;
+	left: 317px;
 }
 
 #u14353-4
@@ -512,10 +512,10 @@
 	width: 379px;
 	min-height: 48px;
 	background-color: transparent;
-	line-height: 47px;
 	color: #FFFFFF;
 	font-size: 39px;
 	text-align: center;
+	line-height: 47px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	margin-left: 276px;
@@ -523,34 +523,69 @@
 	position: relative;
 }
 
-#pu14362
+#ppu30528
 {
 	width: 0.01px;
 	margin-left: 30px;
 	margin-top: 72px;
 }
 
-#u14362
+#u30528
 {
-	z-index: 34;
-	width: 300px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u14364
-{
-	z-index: 35;
+	z-index: 22;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u14364:hover
+#u30529
+{
+	z-index: 23;
+	display: block;
+}
+
+#u30543
+{
+	z-index: 37;
+	width: 300px;
+	height: 200px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/hlb%20overlay-background.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u30543:hover
+{
+	width: 300px;
+	height: 200px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/hlb%20overlay-new%20concept.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u30534
+{
+	z-index: 28;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 600px;
+}
+
+#u30536
+{
+	z-index: 30;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u30536:hover
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -561,15 +596,15 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u14364_img
+#u30536_img
 {
 	margin-left: -38px;
 	margin-right: -19px;
 }
 
-#u14363
+#u30540
 {
-	z-index: 37;
+	z-index: 34;
 	width: 300px;
 	height: 200px;
 	position: relative;
@@ -578,184 +613,64 @@
 	background-size: contain;
 }
 
-#u14363:hover
+#u30540:hover
 {
 	width: 300px;
 	height: 200px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/magic%20box%20overlay-vector%20smart%20object.png") no-repeat left top;
+	background: transparent url("../images/magic%20box%20overlay-new%20concept.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u14354
+#u30542
 {
-	z-index: 18;
-	width: 300px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 300px;
-}
-
-#u14356
-{
-	z-index: 19;
-	width: 300px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u14357
-{
-	z-index: 20;
-	display: block;
-}
-
-#u14355
-{
-	z-index: 21;
+	z-index: 36;
 	width: 300px;
 	height: 200px;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/hlb%20overlay-background.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u14355:hover
-{
-	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/hlb%20overlay.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u14370
-{
-	z-index: 30;
-	width: 300px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 600px;
-}
-
-#u14371
-{
-	z-index: 31;
-	width: 300px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u14373
-{
-	z-index: 33;
-	width: 300px;
-	height: 200px;
-	position: relative;
-	margin-right: -10000px;
 	background: transparent url("../images/flex%20overlay-background.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u14373:hover
+#u30542:hover
 {
 	width: 300px;
 	height: 200px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/flex%20overlay-vector%20smart%20object.png") no-repeat left top;
+	background: transparent url("../images/flex%20overlay-new%20concept.png") no-repeat left top;
 	background-size: contain;
 }
 
-#pu14358
+#ppu30538
 {
 	width: 0.01px;
 	margin-left: 30px;
 	margin-top: -1px;
 }
 
-#u14358
+#pu30528,#pu30538
 {
-	z-index: 26;
-	width: 300px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
+	width: 0.01px;
 	margin-right: -10000px;
+	margin-left: 300px;
 }
 
-#u14359
+#u30538
 {
-	z-index: 27;
-	width: 300px;
-	background-color: #EFEFEF;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u14359_img
-{
-	padding-top: 14px;
-	padding-bottom: 15px;
-}
-
-#u14361
-{
-	z-index: 29;
-	width: 300px;
-	height: 200px;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/spotlight%20overlay-background.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u14361:hover
-{
-	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/spotlight%20overlay-vector%20smart%20object.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u29527
-{
-	z-index: 42;
-	width: 300px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 300px;
-}
-
-#u29528
-{
-	z-index: 43;
+	z-index: 32;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u29530
+#u30544
 {
-	z-index: 45;
+	z-index: 38;
 	width: 300px;
 	height: 200px;
 	position: relative;
@@ -764,61 +679,87 @@
 	background-size: contain;
 }
 
-#u29530:hover
+#u30544:hover
 {
 	width: 300px;
 	height: 200px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/minddraw%20overlay-vector%20smart%20object.png") no-repeat left top;
+	background: transparent url("../images/minddraw%20overlay-new%20concept.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u14345
+#u30530
 {
-	z-index: 22;
+	z-index: 24;
 	width: 300px;
-	border-width: 0px;
-	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 600px;
 }
 
-#u14346
+#u30532
 {
-	z-index: 23;
+	z-index: 26;
 	width: 300px;
-	background-color: transparent;
+	background-color: #EFEFEF;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u14348
+#u30532_img
 {
-	z-index: 25;
+	padding-top: 14px;
+	padding-bottom: 15px;
+}
+
+#u30541
+{
+	z-index: 35;
 	width: 300px;
 	height: 200px;
 	position: relative;
 	margin-right: -10000px;
+	left: 600px;
 	background: transparent url("../images/body%20hero%20overlay-background.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u14348:hover
+#u30541:hover
 {
 	width: 300px;
 	height: 200px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/body%20hero%20overlay.png") no-repeat left top;
+	background: transparent url("../images/body%20hero%20overlay-new%20concept.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u30545
+{
+	z-index: 39;
+	width: 300px;
+	height: 200px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/spotlight%20overlay-background.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u30545:hover
+{
+	width: 300px;
+	height: 200px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/spotlight%20overlay-new%20concept.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u14366
 {
-	z-index: 38;
+	z-index: 18;
 	width: 300px;
 	border-width: 0px;
 	border-color: transparent;
@@ -830,7 +771,7 @@
 
 #u14368
 {
-	z-index: 39;
+	z-index: 19;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
@@ -845,7 +786,7 @@
 
 #u14367
 {
-	z-index: 41;
+	z-index: 21;
 	width: 300px;
 	height: 200px;
 	position: relative;
@@ -866,7 +807,7 @@
 
 #u1737
 {
-	z-index: 49;
+	z-index: 43;
 	height: 62px;
 }
 
@@ -882,7 +823,7 @@
 
 #u1737-bw
 {
-	z-index: 49;
+	z-index: 43;
 	margin-top: 20px;
 	height: 62px;
 }
