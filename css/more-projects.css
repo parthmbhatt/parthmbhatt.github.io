@@ -1,7 +1,7 @@
 .version.more_projects /* version checker */
 {
-	color: #000011;
-	background-color: #8AC3D7;
+	color: #00000E;
+	background-color: #F0F46B;
 }
 
 #muse_css_mq
@@ -12,27 +12,32 @@
 #page
 {
 	z-index: 1;
-	min-height: 931px;
+	width: 960px;
+	min-height: 930.9500000000003px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #1E1E1E;
-	width: 100%;
-	max-width: 960px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -1px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu1738-3
 {
 	width: 0.01px;
 	padding-bottom: 62px;
-	margin-right: -10000px;
 }
 
 #u1738-3
 {
-	z-index: 11;
+	z-index: 12;
 	min-height: 62px;
 	position: fixed;
 	top: 0px;
@@ -40,12 +45,12 @@
 
 #u1738-3-bw
 {
-	z-index: 11;
+	z-index: 12;
 }
 
 #menuu2407
 {
-	z-index: 15;
+	z-index: 16;
 	width: 446px;
 	position: fixed;
 	top: 20px;
@@ -111,21 +116,13 @@
 
 #u2411
 {
-	z-index: 34;
+	z-index: 35;
 	width: 14px;
 	height: 14px;
 	position: relative;
 	margin-right: -10000px;
 	top: 14px;
 	left: 96px;
-}
-
-#u2409.MuseMenuActive #u2411
-{
-	width: 14px;
-	height: 14px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u2413
@@ -356,12 +353,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2414,#u3057,#u3360,#u3426,#u3492,#u3558,#u3624,#u3029
-{
-	width: 120px;
-	position: relative;
-}
-
 #u3031
 {
 	width: 118px;
@@ -377,14 +368,86 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3031.MuseMenuActive
+#u3035-4
+{
+	width: 95px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	left: 2px;
+}
+
+#u3031:hover #u3035-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3031.MuseMenuActive #u3035-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3037
+{
+	z-index: 80;
+	width: 14px;
+	height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	top: 3px;
+	left: 102px;
+}
+
+#u2409.MuseMenuActive #u2411,#u3031:hover #u3037
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3031.MuseMenuActive #u3037
+{
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3039
+{
+	width: 120px;
+	left: 120px;
+}
+
+#u30980
+{
+	width: 118px;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3031.MuseMenuActive,#u30980:hover
 {
 	width: 118px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3035-4
+#u30984-4
 {
 	width: 110px;
 	min-height: 13px;
@@ -397,7 +460,7 @@
 	left: 2px;
 }
 
-#u3625.MuseMenuActive #u3627-4,#u3031:hover #u3035-4
+#u3625.MuseMenuActive #u3627-4,#u30980:hover #u30984-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -406,7 +469,57 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3031.MuseMenuActive #u3035-4
+#u2414,#u3057,#u3360,#u3426,#u3492,#u3558,#u3624,#u3029,#u3041,#u30978,#u31324
+{
+	width: 120px;
+	position: relative;
+}
+
+#u31327
+{
+	width: 118px;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u30980.MuseMenuActive,#u31327:hover
+{
+	width: 118px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u31327.MuseMenuActive
+{
+	width: 118px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u31328-4
+{
+	width: 110px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	left: 2px;
+}
+
+#u30980.MuseMenuActive #u30984-4,#u31327:hover #u31328-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u31327.MuseMenuActive #u31328-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -447,58 +560,95 @@
 	top: 12px;
 }
 
-#u4297
+#u32071-4
 {
-	z-index: 2;
-	width: 920px;
-	height: 820px;
-	background-color: #1E1E1E;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 62px;
-	margin-left: 50%;
-	left: -460px;
-}
-
-#pu29677-4
-{
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 80px;
-	width: 72.3%;
-	margin-left: 13.86%;
-}
-
-#u29677-4
-{
-	z-index: 7;
+	z-index: 8;
+	width: 379px;
 	min-height: 48px;
 	background-color: transparent;
-	line-height: 31px;
-	text-align: center;
+	line-height: 47px;
+	margin-left: 290px;
+	margin-top: 18px;
 	position: relative;
-	width: 100%;
 }
 
-#u29674-4
+#ppu31901
 {
-	z-index: 3;
-	min-height: 160px;
+	width: 0.01px;
+	margin-left: 160px;
+	margin-top: 163px;
+}
+
+#pu31901
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 340px;
+}
+
+#u31901
+{
+	z-index: 4;
+	width: 300px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 60px;
-	text-align: center;
-	line-height: 72px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-weight: bold;
-	margin-top: 161px;
 	position: relative;
-	width: 100%;
+	margin-right: -10000px;
+}
+
+#u31913
+{
+	z-index: 6;
+	width: 300px;
+	height: 200px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/screwdriver%20overlay-background.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u31913:hover
+{
+	width: 300px;
+	height: 200px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/screwdriver%20overlay-vector%20smart%20object.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u31215
+{
+	z-index: 2;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u32053
+{
+	z-index: 7;
+	width: 300px;
+	height: 200px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/phone%20case%20overlay-background.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u32053:hover
+{
+	width: 300px;
+	height: 200px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/phone%20case%20overlay-vector%20smart%20object.png") no-repeat left top;
+	background-size: contain;
 }
 
 #u1737
 {
-	z-index: 14;
+	z-index: 15;
 	height: 62px;
 }
 
@@ -514,9 +664,8 @@
 
 #u1737-bw
 {
-	z-index: 14;
-	margin-bottom: -1px;
-	margin-top: 1px;
+	z-index: 15;
+	margin-top: 379px;
 	height: 62px;
 }
 
@@ -528,11 +677,6 @@
 body
 {
 	position: relative;
-	min-width: 320px;
-}
-
-.verticalspacer
-{
-	min-height: 1px;
+	min-width: 960px;
 }
 
