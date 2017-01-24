@@ -1,39 +1,41 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1484888280826">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1485233453359">
   <folder name="css">
     <file name="site_global.css" crc="55551244"/>
-    <file name="master_work-master.css" crc="129448693" ref="resume:about-me:contact:work:index:skills:more-projects"/>
-    <file name="master_project-page.css" crc="362496278" ref="magic-box:body-hero:hlb:flex:spotlight:minddraw"/>
-    <file name="magic-box.css" crc="4066013002" ref="magic-box"/>
-    <file name="resume.css" crc="320825086" ref="resume"/>
-    <file name="body-hero.css" crc="450825722" ref="body-hero"/>
-    <file name="hlb.css" crc="4155836152" ref="hlb"/>
-    <file name="about-me.css" crc="523990061" ref="about-me"/>
-    <file name="flex.css" crc="218908956" ref="flex"/>
-    <file name="contact.css" crc="523990061" ref="contact"/>
-    <file name="spotlight.css" crc="500060671" ref="spotlight"/>
-    <file name="work.css" crc="4165012634" ref="work"/>
-    <file name="index.css" crc="140528328" ref="index"/>
-    <file name="minddraw.css" crc="3985513306" ref="minddraw"/>
-    <file name="skills.css" crc="334542565" ref="skills"/>
-    <file name="more-projects.css" crc="294306775" ref="more-projects"/>
+    <file name="master_work-master.css" crc="100957200" ref="resume:about-me:contact:work:index:skills:more-projects"/>
+    <file name="master_project-page.css" crc="257345183" ref="magic-box:body-hero:hlb:flex:spotlight:minddraw:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="magic-box.css" crc="4201370291" ref="magic-box"/>
+    <file name="resume.css" crc="387170845" ref="resume"/>
+    <file name="body-hero.css" crc="250647851" ref="body-hero"/>
+    <file name="hlb.css" crc="199175296" ref="hlb"/>
+    <file name="about-me.css" crc="83532116" ref="about-me"/>
+    <file name="flex.css" crc="449900049" ref="flex"/>
+    <file name="contact.css" crc="83532116" ref="contact"/>
+    <file name="spotlight.css" crc="438905795" ref="spotlight"/>
+    <file name="work.css" crc="498019535" ref="work"/>
+    <file name="index.css" crc="430762645" ref="index"/>
+    <file name="minddraw.css" crc="4185283145" ref="minddraw"/>
+    <file name="skills.css" crc="436721507" ref="skills"/>
+    <file name="more-projects.css" crc="250672235" ref="more-projects"/>
+    <file name="slipgrip-phone-case.css" crc="4220757010" ref="slipgrip-phone-case"/>
+    <file name="leverage-screwdriver.css" crc="518097738" ref="leverage-screwdriver"/>
   </folder>
   <folder name="assets">
     <file name="facilitating-emergency-response.pdf" crc="267258554" seo="true" mt="1484161576000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="museutils.js" crc="3790713428" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="whatinput.js" crc="84559013" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="pie.js" crc="3827607177" ref="index:skills:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:work"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="museutils.js" crc="3790713428" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="whatinput.js" crc="84559013" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="pie.js" crc="3827607177" ref="index:skills:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:work:more-projects"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
     <file name="webpro.js" crc="329496574" ref="skills"/>
     <file name="musewpdisclosure.js" crc="4234230767" ref="skills"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
+    <file name="blank.gif" crc="4208392903" ref="index:resume:about-me:contact:work:skills:more-projects:magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
     <file name="u2431.png" crc="367088078" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="u2431-r.png" crc="134961775" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="u2431-m.png" crc="4019634609" ref="index:resume:about-me:contact:work:skills:more-projects"/>
@@ -43,12 +45,11 @@
     <file name="u2412.png" crc="312144189" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="u2412-r.png" crc="381896923" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="u2412-m.png" crc="4190340575" ref="index:resume:about-me:contact:work:skills:more-projects"/>
-    <file name="downarrow.png" crc="119049143" ref="index:magic-box"/>
+    <file name="downarrow.png" crc="119049143" ref="index:magic-box:more-projects:slipgrip-phone-case"/>
     <file name="u2417.png" crc="461999940" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="u2417-r.png" crc="4216050406" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="u2417-m.png" crc="4050530412" ref="index:resume:about-me:contact:work:skills:more-projects"/>
     <file name="headshot.jpg" crc="481605286" seo="true" ref="index"/>
-    <file name="u310-8.png" crc="3787182219" ref="index"/>
     <file name="pasted-svg-612x408.svg" crc="3953442750" ref="index:work"/>
     <file name="pasted svg 612x408_poster_.png" crc="221108903" ref="index"/>
     <file name="hlb overlay-background.png" crc="3974398487" ref="index:work"/>
@@ -87,18 +88,18 @@
     <file name="u1561-5.png" crc="535726323" ref="skills"/>
     <file name="u1567-5.png" crc="363924982" ref="skills"/>
     <file name="u1564-6.png" crc="3794588896" ref="skills"/>
-    <file name="u5312.png" crc="367088078" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5312-r.png" crc="134961775" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5312-m.png" crc="4019634609" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5317.png" crc="192689962" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5317-r.png" crc="3972894738" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5317-m.png" crc="3967842946" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5333.png" crc="312144189" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5333-r.png" crc="381896923" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5333-m.png" crc="4190340575" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5411.png" crc="461999940" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5411-r.png" crc="4216050406" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
-    <file name="u5411-m.png" crc="4050530412" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero"/>
+    <file name="u5312.png" crc="367088078" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5312-r.png" crc="134961775" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5312-m.png" crc="4019634609" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5317.png" crc="192689962" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5317-r.png" crc="3972894738" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5317-m.png" crc="3967842946" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5333.png" crc="312144189" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5333-r.png" crc="381896923" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5333-m.png" crc="4190340575" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5411.png" crc="461999940" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5411-r.png" crc="4216050406" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
+    <file name="u5411-m.png" crc="4050530412" ref="magic-box:hlb:flex:spotlight:minddraw:body-hero:slipgrip-phone-case:leverage-screwdriver"/>
     <file name="concept collage-01.jpg" crc="4231984858" seo="true" ref="magic-box"/>
     <file name="box open.gif" crc="283355939" seo="true" ref="magic-box"/>
     <file name="locking mechanism.gif" crc="3775355024" seo="true" ref="magic-box"/>
@@ -163,18 +164,47 @@
     <file name="pasted image 901x796.jpg" crc="302251022" seo="true" ref="body-hero"/>
     <file name="img_20151222_143339.jpg" crc="103251927" seo="true" ref="body-hero"/>
     <file name="usage.jpg" crc="267612459" seo="true" ref="body-hero"/>
+    <file name="rightarrow.png" crc="510291622" ref="index:magic-box:more-projects:slipgrip-phone-case"/>
+    <file name="u310-10.png" crc="4149352986" ref="index"/>
+    <file name="creator gif.gif" crc="4108259838" seo="true" ref="index"/>
+    <file name="300x200 gif.gif" crc="3904303400" seo="true" ref="more-projects"/>
+    <file name="screwdriver overlay-background.png" crc="3974398487" ref="more-projects"/>
+    <file name="screwdriver overlay-vector smart object.png" crc="219492698" ref="more-projects"/>
+    <file name="phone case gif.gif" crc="4053137404" seo="true" ref="more-projects"/>
+    <file name="phone case overlay-background.png" crc="3974398487" ref="more-projects"/>
+    <file name="phone case overlay-vector smart object.png" crc="4215460941" ref="more-projects"/>
+    <file name="800px-autorickshaw_bangalore-crop-u31104.jpg" crc="56570468" ref="slipgrip-phone-case"/>
+    <file name="hqdefault-crop-u31114.jpg" crc="4032361022" ref="slipgrip-phone-case"/>
+    <file name="pasted image 922x616.jpg" crc="4176406738" seo="true" ref="slipgrip-phone-case"/>
+    <file name="brainstorm-crop-u31146.jpg" crc="286055885" ref="slipgrip-phone-case"/>
+    <file name="final concept-crop-u31159.jpg" crc="3816413824" ref="slipgrip-phone-case"/>
+    <file name="position 1.jpg" crc="4232782369" seo="true" ref="slipgrip-phone-case"/>
+    <file name="position 2.jpg" crc="70839492" seo="true" ref="slipgrip-phone-case"/>
+    <file name="20170123_200102_001-crop-u31447.jpg" crc="4112364672" ref="leverage-screwdriver"/>
+    <file name="20170123_201536-crop-u31460.jpg" crc="508600232" ref="leverage-screwdriver"/>
+    <file name="20170123_204903-crop-u31473.jpg" crc="4172196812" ref="leverage-screwdriver"/>
+    <file name="render1-crop-u31506.png" crc="3813161183" ref="leverage-screwdriver"/>
+    <file name="motion-crop-u31521.png" crc="3987991010" ref="leverage-screwdriver"/>
+    <file name="render6-crop-u31514.png" crc="356902642" ref="leverage-screwdriver"/>
+    <file name="render 2-crop-u31539.png" crc="171365307" ref="leverage-screwdriver"/>
+    <file name="20170123_205029.jpg" crc="238727086" seo="true" ref="leverage-screwdriver"/>
+    <file name="folded.jpg" crc="3817405177" seo="true" ref="leverage-screwdriver"/>
+    <file name="open.jpg" crc="3909167346" seo="true" ref="leverage-screwdriver"/>
+    <file name="pushdriver gif.gif" crc="324848282" seo="true" ref="leverage-screwdriver"/>
   </folder>
-  <file name="index.html" crc="3796717880" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="resume.html" crc="4125736073" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="about-me.html" crc="13998829" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="contact.html" crc="486987035" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="work.html" crc="235017415" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="skills.html" crc="3987623811" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="more-projects.html" crc="49724450" seo="true" mt="1484888248870" redirect="true"/>
-  <file name="magic-box.html" crc="3912667302" seo="true" mt="1484888250893" redirect="true"/>
-  <file name="hlb.html" crc="19845670" seo="true" mt="1484888250893" redirect="true"/>
-  <file name="flex.html" crc="3979665898" seo="true" mt="1484888250893" redirect="true"/>
-  <file name="spotlight.html" crc="451017909" seo="true" mt="1484888250893" redirect="true"/>
-  <file name="minddraw.html" crc="4049263430" seo="true" mt="1484888250893" redirect="true"/>
-  <file name="body-hero.html" crc="4038612088" seo="true" mt="1484888250893" redirect="true"/>
+  <file name="index.html" crc="427130080" seo="true" mt="1485218342414" redirect="true"/>
+  <file name="resume.html" crc="3882421345" seo="true" mt="1485205838903" redirect="true"/>
+  <file name="about-me.html" crc="4187938710" seo="true" mt="1485205838903" redirect="true"/>
+  <file name="contact.html" crc="206855219" seo="true" mt="1485205838903" redirect="true"/>
+  <file name="work.html" crc="3929503765" seo="true" mt="1485205838903" redirect="true"/>
+  <file name="skills.html" crc="4058186327" seo="true" mt="1485205838903" redirect="true"/>
+  <file name="more-projects.html" crc="381020241" seo="true" mt="1485233369735" redirect="true"/>
+  <file name="magic-box.html" crc="4261938421" seo="true" mt="1485205838905" redirect="true"/>
+  <file name="hlb.html" crc="4072269226" seo="true" mt="1485205838905" redirect="true"/>
+  <file name="flex.html" crc="81562950" seo="true" mt="1485205838905" redirect="true"/>
+  <file name="spotlight.html" crc="96283839" seo="true" mt="1485205838905" redirect="true"/>
+  <file name="minddraw.html" crc="170744343" seo="true" mt="1485205838905" redirect="true"/>
+  <file name="body-hero.html" crc="4139494786" seo="true" mt="1485205838905" redirect="true"/>
+  <file name="slipgrip-phone-case.html" crc="21503441" seo="true" mt="1485233438601" redirect="true"/>
+  <file name="leverage-screwdriver.html" crc="156587088" seo="true" mt="1485233426367" redirect="true"/>
 </manifest>
