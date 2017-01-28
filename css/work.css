@@ -1,7 +1,7 @@
 .version.work /* version checker */
 {
-	color: #00001D;
-	background-color: #AF2CCF;
+	color: #0000F1;
+	background-color: #918A59;
 }
 
 #muse_css_mq
@@ -576,7 +576,7 @@
 {
 	width: 0.01px;
 	margin-left: 30px;
-	margin-top: 72px;
+	margin-top: 20px;
 }
 
 #u2761
@@ -854,10 +854,10 @@
 	background-size: contain;
 }
 
-#u1737
+#pu1737
 {
-	z-index: 31;
-	height: 62px;
+	width: 0.01px;
+	margin-top: 63px;
 }
 
 .js body
@@ -870,11 +870,21 @@
 	visibility: visible;
 }
 
-#u1737-bw
+#u1737,#u1737-bw
 {
 	z-index: 31;
-	margin-top: 11px;
 	height: 62px;
+}
+
+#u32754
+{
+	z-index: 118;
+	height: 40px;
+	width: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 460px;
 }
 
 .html

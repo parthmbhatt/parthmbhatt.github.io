@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #000017;
-	background-color: #13C21D;
+	color: #0000F3;
+	background-color: #F5F82F;
 }
 
 #muse_css_mq
@@ -583,10 +583,10 @@
 	position: relative;
 }
 
-#u1737
+#pu1737
 {
-	z-index: 10;
-	height: 62px;
+	width: 0.01px;
+	margin-top: 1px;
 }
 
 .js body
@@ -599,11 +599,21 @@
 	visibility: visible;
 }
 
-#u1737-bw
+#u1737,#u1737-bw
 {
 	z-index: 10;
-	margin-top: 1px;
 	height: 62px;
+}
+
+#u32754
+{
+	z-index: 97;
+	height: 40px;
+	width: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 460px;
 }
 
 .html

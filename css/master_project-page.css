@@ -84,8 +84,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5337
@@ -106,8 +106,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5402
@@ -128,8 +128,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5386
@@ -150,8 +150,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5346
@@ -172,8 +172,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5379
@@ -194,8 +194,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5374
@@ -216,8 +216,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u5377
@@ -253,8 +253,8 @@
 #u30963-4
 {
 	background-color: transparent;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	line-height: 13px;
 }
 
@@ -279,8 +279,8 @@
 #u31306-4
 {
 	background-color: transparent;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	line-height: 13px;
 }
 
@@ -315,15 +315,25 @@
 	cursor: pointer;
 }
 
-#u4478
+#u32168
 {
-	border-width: 0px;
-	border-color: transparent;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FFFFFF;
 	background-color: #969696;
+	border-radius: 10px 10px 0px 0px ;
+}
+
+#u32171
+{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FFFFFF;
+	background-color: #7F7F7F;
 	border-radius: 0px 0px 10px 10px ;
 }
 
-#menuu5307,#u29671
+#menuu5307,#u32177,#u32075
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -366,14 +376,22 @@
 	border-radius: 10px;
 }
 
-#u4243-4
+#u32174-4,#u4243-4
 {
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 29px;
-	text-align: center;
 	font-size: 24px;
+	text-align: center;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u4478
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #969696;
+	border-radius: 0px 0px 10px 10px ;
 }
 
 #u3334-3,#u3276
@@ -381,4 +399,16 @@
 	background-color: #00B29D;
 }
 
+#u32764
+{
+	vertical-align: top;
+	background: transparent url("../images/u32764.png") no-repeat 0px 0px;
+	background-size: contain;
+}
+
+#u32764:hover
+{
+	background: transparent url("../images/u32764-r.png") no-repeat 0px 0px;
+	background-size: contain;
+}
 

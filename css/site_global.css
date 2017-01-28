@@ -151,7 +151,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-size: 14px;
-	font-weight: bold;
+	font-weight: normal;
 	line-height: 20px;
 	padding: 0px;
 }
@@ -174,7 +174,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Headline,.Summary-text-style
+.Headline,.Overview-text-style
 {
 	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -182,7 +182,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Summary-heading-style
+.Overview-heading-style
 {
 	color: #FFFFFF;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
@@ -190,6 +190,25 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: bold;
 	text-decoration: underline;
 	padding: 0px;
+}
+
+.Summary-Text
+{
+	color: #FFFFFF;
+	font-family: Swis721 LtCn BT;
+	font-size: 19px;
+	font-style: normal;
+	padding: 0px;
+}
+
+.Skill-Heading
+{
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 15px;
+	padding: 0px 4px 0px 0px;
 }
 
 .list0 li:before
@@ -208,6 +227,17 @@ a.nontext /* used to override default properties of 'a' tag */
 	left: 100%;
 }
 
+.Bullet-Style
+{
+	padding-left: 10px;
+}
+
+.Bullet-Style.rtl-list
+{
+	padding-left: 0px;
+	padding-right: 10px;
+}
+
 .nls-None > li:before,.nls-None .list3 > li:before,.nls-None .list6 > li:before,.Bullet-Style > li:before,.Bullet-Style .list3 > li:before,.Bullet-Style .list6 > li:before
 {
 	margin-right: 6px;
@@ -220,12 +250,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	content: '○';
 }
 
-.nls-None,.nls-None .list1,.nls-None .list2,.nls-None .list3,.nls-None .list4,.nls-None .list5,.nls-None .list6,.nls-None .list7,.nls-None .list8,.Bullet-Style,.Bullet-Style .list1,.Bullet-Style .list2,.Bullet-Style .list3,.Bullet-Style .list4,.Bullet-Style .list5,.Bullet-Style .list6,.Bullet-Style .list7,.Bullet-Style .list8
+.nls-None,.nls-None .list1,.nls-None .list2,.nls-None .list3,.nls-None .list4,.nls-None .list5,.nls-None .list6,.nls-None .list7,.nls-None .list8,.Bullet-Style .list1,.Bullet-Style .list2,.Bullet-Style .list3,.Bullet-Style .list4,.Bullet-Style .list5,.Bullet-Style .list6,.Bullet-Style .list7,.Bullet-Style .list8
 {
 	padding-left: 34px;
 }
 
-.nls-None.rtl-list,.nls-None .list1.rtl-list,.nls-None .list2.rtl-list,.nls-None .list3.rtl-list,.nls-None .list4.rtl-list,.nls-None .list5.rtl-list,.nls-None .list6.rtl-list,.nls-None .list7.rtl-list,.nls-None .list8.rtl-list,.Bullet-Style.rtl-list,.Bullet-Style .list1.rtl-list,.Bullet-Style .list2.rtl-list,.Bullet-Style .list3.rtl-list,.Bullet-Style .list4.rtl-list,.Bullet-Style .list5.rtl-list,.Bullet-Style .list6.rtl-list,.Bullet-Style .list7.rtl-list,.Bullet-Style .list8.rtl-list
+.nls-None.rtl-list,.nls-None .list1.rtl-list,.nls-None .list2.rtl-list,.nls-None .list3.rtl-list,.nls-None .list4.rtl-list,.nls-None .list5.rtl-list,.nls-None .list6.rtl-list,.nls-None .list7.rtl-list,.nls-None .list8.rtl-list,.Bullet-Style .list1.rtl-list,.Bullet-Style .list2.rtl-list,.Bullet-Style .list3.rtl-list,.Bullet-Style .list4.rtl-list,.Bullet-Style .list5.rtl-list,.Bullet-Style .list6.rtl-list,.Bullet-Style .list7.rtl-list,.Bullet-Style .list8.rtl-list
 {
 	padding-left: 0px;
 	padding-right: 34px;

@@ -91,8 +91,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3363
@@ -113,8 +113,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3427
@@ -135,8 +135,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3495
@@ -157,8 +157,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3561
@@ -179,8 +179,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3625
@@ -201,8 +201,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3031
@@ -223,8 +223,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	line-height: 13px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 }
 
 #u3037
@@ -260,8 +260,8 @@
 #u30984-4
 {
 	background-color: transparent;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	line-height: 13px;
 }
 
@@ -286,8 +286,8 @@
 #u31328-4
 {
 	background-color: transparent;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	line-height: 13px;
 }
 
@@ -327,4 +327,14 @@
 	background-color: #00B29D;
 }
 
+#u32754
+{
+	vertical-align: top;
+	background: transparent url("../images/u32754.png") no-repeat 0px 0px;
+}
+
+#u32754:hover
+{
+	background: transparent url("../images/u32754-r.png") no-repeat 0px 0px;
+}
 
