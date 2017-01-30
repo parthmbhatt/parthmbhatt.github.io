@@ -211,6 +211,16 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px 4px 0px 0px;
 }
 
+.Project-sub-headings
+{
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 23px;
+	font-style: normal;
+	text-decoration: underline;
+	padding: 0px 0px 10px;
+}
+
 .list0 li:before
 {
 	position: absolute;

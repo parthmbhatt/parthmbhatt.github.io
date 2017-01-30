@@ -89,10 +89,10 @@
 #u3061-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3363
@@ -111,10 +111,10 @@
 #u3364-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3427
@@ -133,10 +133,10 @@
 #u3428-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3495
@@ -155,10 +155,10 @@
 #u3498-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3561
@@ -177,10 +177,10 @@
 #u3564-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3625
@@ -199,10 +199,10 @@
 #u3627-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3031
@@ -221,10 +221,10 @@
 #u3035-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 13px;
 	font-size: 11px;
 	text-align: center;
+	color: #FFFFFF;
 }
 
 #u3037
@@ -278,11 +278,6 @@
 	background-color: #AAAAAA;
 }
 
-#u3058.MuseMenuActive,#u3363.MuseMenuActive,#u3427.MuseMenuActive,#u3495.MuseMenuActive,#u3561.MuseMenuActive,#u3625.MuseMenuActive,#u3031.MuseMenuActive,#u30980.MuseMenuActive,#u31327.MuseMenuActive
-{
-	background-color: #666666;
-}
-
 #u31328-4
 {
 	background-color: transparent;
@@ -291,7 +286,33 @@
 	line-height: 13px;
 }
 
-#u2413,#u2414,#u3057,#u3360,#u3426,#u3492,#u3558,#u3624,#u3029,#u3039,#u3041,#u30978,#u31324,#u2415,#u2416
+#u32828
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #777777;
+	background-color: #FFFFFF;
+}
+
+#u32828:hover
+{
+	background-color: #AAAAAA;
+}
+
+#u3058.MuseMenuActive,#u3363.MuseMenuActive,#u3427.MuseMenuActive,#u3495.MuseMenuActive,#u3561.MuseMenuActive,#u3625.MuseMenuActive,#u3031.MuseMenuActive,#u30980.MuseMenuActive,#u31327.MuseMenuActive,#u32828.MuseMenuActive
+{
+	background-color: #666666;
+}
+
+#u32831-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+}
+
+#u2413,#u2414,#u3057,#u3360,#u3426,#u3492,#u3558,#u3624,#u3029,#u3039,#u3041,#u30978,#u31324,#u32825,#u2415,#u2416
 {
 	background-color: transparent;
 }
@@ -336,5 +357,16 @@
 #u32754:hover
 {
 	background: transparent url("../images/u32754-r.png") no-repeat 0px 0px;
+}
+
+#u33608
+{
+	vertical-align: top;
+	background: transparent url("../images/u33608.png") no-repeat 0px 0px;
+}
+
+#u33608:hover
+{
+	background: transparent url("../images/u33608-r.png") no-repeat 0px 0px;
 }
 
