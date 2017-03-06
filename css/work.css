@@ -1,7 +1,7 @@
 .version.work /* version checker */
 {
-	color: #0000E6;
-	background-color: #8F867F;
+	color: #000004;
+	background-color: #317029;
 }
 
 #muse_css_mq
@@ -37,7 +37,7 @@
 
 #u1738-3
 {
-	z-index: 28;
+	z-index: 70;
 	min-height: 62px;
 	position: fixed;
 	top: 0px;
@@ -45,12 +45,12 @@
 
 #u1738-3-bw
 {
-	z-index: 28;
+	z-index: 70;
 }
 
 #menuu2407
 {
-	z-index: 32;
+	z-index: 74;
 	width: 446px;
 	position: fixed;
 	top: 20px;
@@ -73,6 +73,33 @@
 	position: relative;
 }
 
+#u2431-4
+{
+	width: 110px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2430:hover #u2431-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2430:active #u2431-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u2422
 {
 	width: 110px;
@@ -87,6 +114,33 @@
 	width: 110px;
 	padding-bottom: 25px;
 	position: relative;
+}
+
+#u2428-4
+{
+	width: 110px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2430.MuseMenuActive #u2431-4,#u2425:hover #u2428-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2425:active #u2428-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u2408
@@ -105,18 +159,45 @@
 	position: relative;
 }
 
-#u2412
+#u2412-4
 {
-	height: 17px;
 	width: 96px;
+	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
 }
 
+#u2409:hover #u2412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2409:active #u2412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2409.MuseMenuActive #u2412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u2411
 {
-	z-index: 51;
+	z-index: 93;
 	width: 14px;
 	height: 14px;
 	position: relative;
@@ -401,7 +482,7 @@
 
 #u3037
 {
-	z-index: 96;
+	z-index: 138;
 	width: 14px;
 	height: 14px;
 	position: relative;
@@ -588,13 +669,40 @@
 	margin: 0px;
 }
 
-#u2431,#u2428,#u2417
+#u2417-4
 {
-	height: 17px;
 	width: 110px;
+	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
+}
+
+#u2425.MuseMenuActive #u2428-4,#u2416:hover #u2417-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2416:active #u2417-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2416.MuseMenuActive #u2417-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u2554-4
@@ -631,25 +739,20 @@
 	display: block;
 }
 
-#u30342
+#u33899-8
 {
-	z-index: 25;
+	z-index: 30;
 	width: 300px;
-	height: 200px;
+	min-height: 200px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #000000;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/hlb%20overlay-background.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u30342:hover
-{
-	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/hlb%20overlay-new%20concept.png") no-repeat left top;
-	background-size: contain;
 }
 
 #u2902
@@ -688,47 +791,37 @@
 	margin-right: -19px;
 }
 
-#u30303
+#u33898-8
 {
 	z-index: 22;
 	width: 300px;
-	height: 200px;
+	min-height: 200px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #000000;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/magic%20box%20overlay-background.png") no-repeat left top;
-	background-size: contain;
 }
 
-#u30303:hover
+#u33900-8
 {
+	z-index: 38;
 	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/magic%20box%20overlay-new%20concept.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u30324
-{
-	z-index: 24;
-	width: 300px;
-	height: 200px;
+	min-height: 200px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #000000;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	left: 600px;
-	background: transparent url("../images/flex%20overlay-background.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u30324:hover
-{
-	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/flex%20overlay-new%20concept.png") no-repeat left top;
-	background-size: contain;
 }
 
 #ppu2841
@@ -754,25 +847,20 @@
 	margin-right: -10000px;
 }
 
-#u30360
+#u33902-8
 {
-	z-index: 26;
+	z-index: 54;
 	width: 300px;
-	height: 200px;
+	min-height: 200px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #000000;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/minddraw%20overlay-background.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u30360:hover
-{
-	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/minddraw%20overlay-new%20concept.png") no-repeat left top;
-	background-size: contain;
 }
 
 #u2686
@@ -800,47 +888,88 @@
 	padding-bottom: 15px;
 }
 
-#u30306
+#u33901-8
 {
-	z-index: 23;
+	z-index: 46;
 	width: 300px;
-	height: 200px;
+	min-height: 200px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #000000;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u33903-8
+{
+	z-index: 62;
+	width: 300px;
+	min-height: 200px;
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #000000;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;
 	left: 600px;
-	background: transparent url("../images/body%20hero%20overlay-background.png") no-repeat left top;
-	background-size: contain;
 }
 
-#u30306:hover
+#u33899-8:hover,#u33898-8:hover,#u33900-8:hover,#u33902-8:hover,#u33901-8:hover,#u33903-8:hover
 {
+	opacity: 0.92;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=92)";
+	filter: alpha(opacity=92);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 200px;
 	width: 300px;
-	height: 200px;
-	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/body%20hero%20overlay-new%20concept.png") no-repeat left top;
-	background-size: contain;
 }
 
-#u30396
+#u33899-2,#u33898-2,#u33900-2,#u33902-2,#u33901-2,#u33903-2
 {
-	z-index: 27;
-	width: 300px;
-	height: 200px;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/spotlight%20overlay-background.png") no-repeat left top;
-	background-size: contain;
+	font-size: 30px;
+	line-height: 36px;
+	padding-top: 15px;
+	font-weight: bold;
 }
 
-#u30396:hover
+#u33899-4,#u33898-4,#u33900-4,#u33902-4,#u33901-4,#u33903-4
 {
-	width: 300px;
-	height: 200px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/spotlight%20overlay-new%20concept.png") no-repeat left top;
-	background-size: contain;
+	font-size: 25px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 33px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u33899-3,#u33898-3,#u33900-3,#u33902-3,#u33901-3,#u33903-3
+{
+	font-size: 14px;
+	line-height: 17px;
+}
+
+#u33899-6,#u33898-6,#u33900-6,#u33902-6,#u33901-6,#u33903-6
+{
+	font-size: 12px;
+	line-height: 14px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 15px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#u33899-5,#u33898-5,#u33900-5,#u33902-5,#u33901-5,#u33903-5
+{
+	font-weight: normal;
 }
 
 #u3002
@@ -909,13 +1038,13 @@
 
 #u1737,#u1737-bw
 {
-	z-index: 31;
+	z-index: 73;
 	height: 62px;
 }
 
 #u32754
 {
-	z-index: 124;
+	z-index: 166;
 	height: 40px;
 	width: 40px;
 	position: relative;
@@ -926,7 +1055,7 @@
 
 #u33608
 {
-	z-index: 127;
+	z-index: 169;
 	height: 36px;
 	width: 47px;
 	position: relative;

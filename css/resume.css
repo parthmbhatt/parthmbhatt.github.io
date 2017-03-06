@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000FC;
-	background-color: #D80C46;
+	color: #00001A;
+	background-color: #D42CE7;
 }
 
 #muse_css_mq
@@ -71,6 +71,33 @@
 	position: relative;
 }
 
+#u2431-4
+{
+	width: 110px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2430:hover #u2431-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2430:active #u2431-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u2422
 {
 	width: 110px;
@@ -85,6 +112,33 @@
 	width: 110px;
 	padding-bottom: 25px;
 	position: relative;
+}
+
+#u2428-4
+{
+	width: 110px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 12px;
+}
+
+#u2430.MuseMenuActive #u2431-4,#u2425:hover #u2428-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2425:active #u2428-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u2408
@@ -103,13 +157,40 @@
 	position: relative;
 }
 
-#u2412
+#u2412-4
 {
-	height: 17px;
 	width: 96px;
+	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
+}
+
+#u2409:hover #u2412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2409:active #u2412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2409.MuseMenuActive #u2412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 96px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u2411
@@ -586,13 +667,40 @@
 	margin: 0px;
 }
 
-#u2431,#u2428,#u2417
+#u2417-4
 {
-	height: 17px;
 	width: 110px;
+	min-height: 17px;
 	position: relative;
 	margin-right: -10000px;
 	top: 12px;
+}
+
+#u2425.MuseMenuActive #u2428-4,#u2416:hover #u2417-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2416:active #u2417-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2416.MuseMenuActive #u2417-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 110px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u30016-4

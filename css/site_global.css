@@ -195,9 +195,10 @@ a.nontext /* used to override default properties of 'a' tag */
 .Summary-Text
 {
 	color: #FFFFFF;
-	font-family: Swis721 LtCn BT;
-	font-size: 19px;
-	font-style: normal;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 27px;
+	font-style: italic;
+	text-align: left;
 	padding: 0px;
 }
 

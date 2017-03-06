@@ -82,10 +82,10 @@
 #u5394-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5337
@@ -104,10 +104,10 @@
 #u5340-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5402
@@ -126,10 +126,10 @@
 #u5404-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5386
@@ -148,10 +148,10 @@
 #u5388-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5346
@@ -170,10 +170,10 @@
 #u5349-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5379
@@ -192,10 +192,10 @@
 #u5382-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5374
@@ -214,10 +214,10 @@
 #u5375-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
 }
 
 #u5377
@@ -336,25 +336,7 @@
 	cursor: pointer;
 }
 
-#u32168
-{
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-	background-color: #969696;
-	border-radius: 10px 10px 0px 0px ;
-}
-
-#u32171
-{
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-	background-color: #7F7F7F;
-	border-radius: 0px 0px 10px 10px ;
-}
-
-#menuu5307,#u32177,#u32075
+#menuu5307,#u32075
 {
 	border-width: 0px;
 	border-color: transparent;
@@ -397,13 +379,13 @@
 	border-radius: 10px;
 }
 
-#u32174-4,#u4243-4
+#u4243-4
 {
 	background-color: transparent;
-	line-height: 29px;
+	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 29px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 

@@ -10,20 +10,26 @@
 	background-color: transparent;
 }
 
-#u2431
+#u2431-4
 {
-	vertical-align: top;
-	background: transparent url("../images/u2431.png") no-repeat 0px 0px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u2430:hover #u2431
+#u2430:hover #u2431-4 p
 {
-	background: transparent url("../images/u2431-r.png") no-repeat 0px 0px;
+	color: #1E6AFF;
+	visibility: inherit;
 }
 
-#u2430:active #u2431
+#u2430:active #u2431-4 p
 {
-	background: transparent url("../images/u2431-m.png") no-repeat 0px 0px;
+	color: #1E29FF;
+	visibility: inherit;
 }
 
 #u2422,#u2425
@@ -31,20 +37,26 @@
 	background-color: transparent;
 }
 
-#u2428
+#u2428-4
 {
-	vertical-align: top;
-	background: transparent url("../images/u2428.png") no-repeat 0px 0px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u2425:hover #u2428
+#u2425:hover #u2428-4 p
 {
-	background: transparent url("../images/u2428-r.png") no-repeat 0px 0px;
+	color: #1E6AFF;
+	visibility: inherit;
 }
 
-#u2425:active #u2428
+#u2425:active #u2428-4 p
 {
-	background: transparent url("../images/u2428-m.png") no-repeat 0px 0px;
+	color: #1E29FF;
+	visibility: inherit;
 }
 
 #u2408,#u2409
@@ -52,20 +64,26 @@
 	background-color: transparent;
 }
 
-#u2412
+#u2412-4
 {
-	vertical-align: top;
-	background: transparent url("../images/u2412.png") no-repeat 0px 0px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u2409:hover #u2412
+#u2409:hover #u2412-4 p
 {
-	background: transparent url("../images/u2412-r.png") no-repeat 0px 0px;
+	color: #1E6AFF;
+	visibility: inherit;
 }
 
-#u2409:active #u2412
+#u2409:active #u2412-4 p
 {
-	background: transparent url("../images/u2412-m.png") no-repeat 0px 0px;
+	color: #1E29FF;
+	visibility: inherit;
 }
 
 #u2411
@@ -89,10 +107,11 @@
 #u3061-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3363
@@ -111,10 +130,11 @@
 #u3364-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3427
@@ -133,10 +153,11 @@
 #u3428-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3495
@@ -155,10 +176,11 @@
 #u3498-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3561
@@ -177,10 +199,11 @@
 #u3564-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3625
@@ -199,10 +222,11 @@
 #u3627-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3031
@@ -221,10 +245,11 @@
 #u3035-4
 {
 	background-color: transparent;
-	line-height: 13px;
+	color: #FFFFFF;
 	font-size: 11px;
 	text-align: center;
-	color: #FFFFFF;
+	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u3037
@@ -263,6 +288,7 @@
 	font-size: 11px;
 	text-align: center;
 	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u31327
@@ -284,6 +310,7 @@
 	font-size: 11px;
 	text-align: center;
 	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u32828
@@ -310,6 +337,7 @@
 	font-size: 11px;
 	text-align: center;
 	line-height: 13px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u2413,#u2414,#u3057,#u3360,#u3426,#u3492,#u3558,#u3624,#u3029,#u3039,#u3041,#u30978,#u31324,#u32825,#u2415,#u2416
@@ -322,20 +350,32 @@
 	background-color: #1E1E1E;
 }
 
-#u2417
+#u2417-4
 {
-	vertical-align: top;
-	background: transparent url("../images/u2417.png") no-repeat 0px 0px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u2416:hover #u2417
+#u2416:hover #u2417-4 p
 {
-	background: transparent url("../images/u2417-r.png") no-repeat 0px 0px;
+	color: #1E6AFF;
+	visibility: inherit;
 }
 
-#u2416:active #u2417
+#u2416:active #u2417-4 p
 {
-	background: transparent url("../images/u2417-m.png") no-repeat 0px 0px;
+	color: #1E29FF;
+	visibility: inherit;
+}
+
+#u2430.MuseMenuActive #u2431-4 p,#u2425.MuseMenuActive #u2428-4 p,#u2409.MuseMenuActive #u2412-4 p,#u2416.MuseMenuActive #u2417-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 .MenuItem /* unifiedNavBar */
