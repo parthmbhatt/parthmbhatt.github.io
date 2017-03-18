@@ -1,7 +1,7 @@
 .version.hlb /* version checker */
 {
-	color: #00001F;
-	background-color: #A2E83D;
+	color: #0000F8;
+	background-color: #74590F;
 }
 
 #muse_css_mq
@@ -917,8 +917,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -934,8 +934,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -951,8 +951,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -968,8 +968,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -985,8 +985,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1061,9 +1061,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1080,9 +1080,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1099,9 +1099,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1118,9 +1118,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1137,9 +1137,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1156,9 +1156,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1175,9 +1175,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.skills /* version checker */
 {
-	color: #00000C;
-	background-color: #11EF1F;
+	color: #000015;
+	background-color: #8296E1;
 }
 
 #muse_css_mq
@@ -753,9 +753,9 @@
 	min-height: 113px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 17px;
-	text-align: left;
 	line-height: 20px;
+	text-align: left;
+	font-size: 17px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.minddraw /* version checker */
 {
-	color: #0000F0;
-	background-color: #074DA4;
+	color: #00000D;
+	background-color: #A2776B;
 }
 
 #muse_css_mq
@@ -877,8 +877,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -894,8 +894,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -911,8 +911,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -928,8 +928,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -945,8 +945,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1033,9 +1033,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1052,9 +1052,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1071,9 +1071,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1090,9 +1090,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1109,9 +1109,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1128,9 +1128,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;

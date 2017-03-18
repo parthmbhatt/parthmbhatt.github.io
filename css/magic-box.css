@@ -1,7 +1,7 @@
 .version.magic_box /* version checker */
 {
-	color: #0000ED;
-	background-color: #E6A474;
+	color: #00001E;
+	background-color: #7CF59C;
 }
 
 #muse_css_mq
@@ -940,8 +940,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -957,8 +957,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -974,8 +974,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -991,8 +991,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -1119,9 +1119,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1138,9 +1138,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1157,9 +1157,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1176,9 +1176,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1195,9 +1195,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
@@ -1214,9 +1214,9 @@
 	background-color: #317873;
 	border-radius: 7px;
 	color: #FFFFFF;
-	font-size: 20px;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
+	font-size: 20px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: normal;
 	position: relative;
