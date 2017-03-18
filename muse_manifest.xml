@@ -1,28 +1,28 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1488815593305">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pbhatt.net" resolutions="1x" timestamp="1489860677065">
   <folder name="fonts">
     <file name="myriadpro-bold.woff" crc="81552565"/>
     <file name="myriadpro-bold.eot" crc="4278700583"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="396028251"/>
-    <file name="master_work-master.css" crc="158747278" ref="more-projects:contact:resume:about-me:work:skills:index"/>
-    <file name="master_project-page.css" crc="315490641" ref="slipgrip-phone-case:magic-box:body-hero:leverage-screwdriver:hlb:dancing-automata:flex:spotlight:minddraw"/>
+    <file name="master_work-master.css" crc="129517647" ref="more-projects:contact:resume:about-me:work:skills:index"/>
+    <file name="master_project-page.css" crc="283332276" ref="slipgrip-phone-case:magic-box:body-hero:leverage-screwdriver:hlb:dancing-automata:flex:spotlight:minddraw"/>
     <file name="more-projects.css" crc="4244330243" ref="more-projects"/>
     <file name="contact.css" crc="504459201" ref="contact"/>
-    <file name="slipgrip-phone-case.css" crc="294131475" ref="slipgrip-phone-case"/>
-    <file name="magic-box.css" crc="3991315572" ref="magic-box"/>
-    <file name="body-hero.css" crc="235437728" ref="body-hero"/>
-    <file name="leverage-screwdriver.css" crc="321914445" ref="leverage-screwdriver"/>
-    <file name="hlb.css" crc="530769981" ref="hlb"/>
+    <file name="slipgrip-phone-case.css" crc="4148744379" ref="slipgrip-phone-case"/>
+    <file name="magic-box.css" crc="511505820" ref="magic-box"/>
+    <file name="body-hero.css" crc="10324847" ref="body-hero"/>
+    <file name="leverage-screwdriver.css" crc="530260852" ref="leverage-screwdriver"/>
+    <file name="hlb.css" crc="4168374543" ref="hlb"/>
     <file name="resume.css" crc="450112743" ref="resume"/>
-    <file name="dancing-automata.css" crc="123040593" ref="dancing-automata"/>
-    <file name="flex.css" crc="80047169" ref="flex"/>
+    <file name="dancing-automata.css" crc="80417191" ref="dancing-automata"/>
+    <file name="flex.css" crc="3929102207" ref="flex"/>
     <file name="about-me.css" crc="504459201" ref="about-me"/>
-    <file name="spotlight.css" crc="4231901129" ref="spotlight"/>
+    <file name="spotlight.css" crc="3886319976" ref="spotlight"/>
     <file name="work.css" crc="70348841" ref="work"/>
-    <file name="minddraw.css" crc="4027010468" ref="minddraw"/>
-    <file name="skills.css" crc="202501919" ref="skills"/>
-    <file name="index.css" crc="4173948384" ref="index"/>
+    <file name="minddraw.css" crc="228751211" ref="minddraw"/>
+    <file name="skills.css" crc="360879841" ref="skills"/>
+    <file name="index.css" crc="454595868" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="facilitating-emergency-response.pdf" crc="267258554" seo="true" mt="1484161576000"/>
@@ -40,8 +40,8 @@
     <file name="musewpdisclosure.js" crc="4234230767" ref="skills"/>
   </folder>
   <folder name="images">
-    <file name="downarrow.png" crc="119049143" ref="index:magic-box:hlb"/>
-    <file name="rightarrow.png" crc="510291622" ref="index:magic-box:hlb"/>
+    <file name="downarrow.png" crc="119049143" ref="index:magic-box"/>
+    <file name="rightarrow.png" crc="510291622" ref="index:magic-box"/>
     <file name="headshot.jpg" crc="481605286" seo="true" ref="index"/>
     <file name="creator gif.gif" crc="4108259838" seo="true" ref="index"/>
     <file name="pasted-svg-612x408.svg" crc="3953442750" ref="index:work"/>
@@ -188,21 +188,22 @@
     <file name="20161222_220344.jpg" crc="512385038" seo="true" ref="dancing-automata"/>
     <file name="gear dancers.gif" crc="467473322" seo="true" ref="dancing-automata"/>
     <file name="12.jpg" crc="328922227" seo="true" ref="hlb"/>
+    <file name="favicon.ico" crc="82220616" ref="index"/>
   </folder>
-  <file name="index.html" crc="3778180132" seo="true" mt="1488815583507" redirect="true"/>
-  <file name="resume.html" crc="60612861" seo="true" mt="1485990845298" redirect="true"/>
-  <file name="about-me.html" crc="4171907839" seo="true" mt="1485990845298" redirect="true"/>
-  <file name="contact.html" crc="4196510401" seo="true" mt="1485990845298" redirect="true"/>
-  <file name="work.html" crc="3972813360" seo="true" mt="1488814584181" redirect="true"/>
-  <file name="skills.html" crc="341384189" seo="true" mt="1488815510033" redirect="true"/>
-  <file name="more-projects.html" crc="4053815313" seo="true" mt="1485990845298" redirect="true"/>
-  <file name="magic-box.html" crc="45450589" seo="true" mt="1488813645921" redirect="true"/>
-  <file name="hlb.html" crc="4191190340" seo="true" mt="1488815019766" redirect="true"/>
-  <file name="flex.html" crc="3828907975" seo="true" mt="1488813563787" redirect="true"/>
-  <file name="spotlight.html" crc="3840825576" seo="true" mt="1488813989610" redirect="true"/>
-  <file name="minddraw.html" crc="4073615241" seo="true" mt="1488814728239" redirect="true"/>
-  <file name="body-hero.html" crc="4004899064" seo="true" mt="1488814104224" redirect="true"/>
-  <file name="slipgrip-phone-case.html" crc="3762391663" seo="true" mt="1488754222392" redirect="true"/>
-  <file name="leverage-screwdriver.html" crc="4038356829" seo="true" mt="1488754174856" redirect="true"/>
-  <file name="dancing-automata.html" crc="480923998" seo="true" mt="1488754097238" redirect="true"/>
+  <file name="index.html" crc="179087496" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="resume.html" crc="4049002422" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="about-me.html" crc="4175601938" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="contact.html" crc="249817640" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="work.html" crc="292445061" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="skills.html" crc="511818611" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="more-projects.html" crc="4000577461" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="magic-box.html" crc="4071421383" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="hlb.html" crc="4035923368" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="flex.html" crc="4146885556" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="spotlight.html" crc="461896801" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="minddraw.html" crc="9571277" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="body-hero.html" crc="3779880056" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="slipgrip-phone-case.html" crc="171393815" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="leverage-screwdriver.html" crc="94561033" seo="true" mt="1489860629163" redirect="true"/>
+  <file name="dancing-automata.html" crc="4063698996" seo="true" mt="1489860629163" redirect="true"/>
 </manifest>
